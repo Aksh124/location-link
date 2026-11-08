@@ -1,0 +1,8 @@
+.gradle/
+build/
+run/
+logs/
+structuremap-cache/
+*.log
+.idea/
+.vscode/

@@ -1,0 +1,10 @@
+{
+	"schemaVersion": 1,
+	"id": "locationlink-gametest",
+	"version": "1.0.0",
+	"name": "Location Link game test",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-client-gametest": ["locationlink.test.LocationLinkGameTest"]
+	}
+}
